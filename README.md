@@ -30,13 +30,13 @@ Rekomendasi-Frame-Kacamata/
 ---
 
 ⚙️ Persyaratan
-```
-Python >= 3.10 (disarankan menggunakan Anaconda)
-OpenCV
-Mediapipe
-Pillow
-Tkinter (sudah bawaan Python, untuk Linux bisa install python3-tk jika perlu)
-```
+
+- Python >= 3.10 (disarankan menggunakan Anaconda)
+- OpenCV
+- Mediapipe
+- Pillow
+- Tkinter (sudah bawaan Python, untuk Linux bisa install python3-tk jika perlu)
+
 ---
 📥 Cara Instalasi
 
@@ -57,33 +57,28 @@ pip install -r requirements.txt
 ```
 ---
 ▶️ Cara Menjalankan Program
-```
-python deteksi_frame_tkinter.py
 
-Klik Pilih Gambar ➜ pilih foto wajah (*.png / .jpg)
+- python deteksi_frame_tkinter.py
+- Klik Pilih Gambar ➜ pilih foto wajah (*.png / .jpg)
+- Klik Deteksi
+- Hasil bentuk wajah, rasio, dan rekomendasi frame akan muncul di GUI
+- Gambar wajah + landmark juga ditampilkan
 
-Klik Deteksi
-
-Hasil bentuk wajah, rasio, dan rekomendasi frame akan muncul di GUI
-
-Gambar wajah + landmark juga ditampilkan
-```
 ---
 🧮 Logika Penentuan Bentuk Wajah
-```
+
 Bentuk	Rasio Panjang / Lebar
-Oval	>= 1.3
-Square	>= 1.1 dan < 1.3
-Round	< 1.1
-```
+- Oval	>= 1.3
+- Square	>= 1.1 dan < 1.3
+- Round	< 1.1
 ---
 ✨ Rekomendasi Frame
-```
+
 Bentuk	Rekomendasi
-Oval	Gunakan frame lebar & tipis
-Square	Gunakan frame bulat
-Round	Gunakan frame kotak / persegi panjang
-```
+- Oval	Gunakan frame lebar & tipis
+- Square	Gunakan frame bulat
+- Round	Gunakan frame kotak / persegi panjang
+
 ---
 
 📝 Lisensi
