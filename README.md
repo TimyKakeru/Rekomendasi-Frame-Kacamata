@@ -79,3 +79,4 @@ Bentuk	Rekomendasi
 
 📝 Lisensi
 MIT — Bebas digunakan untuk keperluan pembelajaran, riset, dan pengembangan.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
