@@ -32,9 +32,9 @@ Rekomendasi-Frame-Kacamata/
 ⚙️ Persyaratan
 
 - Python >= 3.10 (disarankan menggunakan Anaconda)
-- OpenCV
-- Mediapipe
-- Pillow
+- OpenCV ==  4.12.0.88
+- Mediapipe =  0.10.14
+- Pillow == 11.3.0
 - Tkinter (sudah bawaan Python, untuk Linux bisa install python3-tk jika perlu)
 
 ---
@@ -50,10 +50,6 @@ cd Rekomendasi-Frame-Kacamata
 ```bash
 conda create -n rekomendasi-frame python=3.10
 conda activate rekomendasi-frame
-```
-3️⃣ Install dependensi Python
-```bash 
-pip install -r requirements.txt
 ```
 ---
 ▶️ Cara Menjalankan Program
