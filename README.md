@@ -30,7 +30,6 @@ Anggota Kelompok
 Rekomendasi-Frame-Kacamata/
  ├─ README.md
  ├─ .gitignore
- ├─ requirements.txt
  ├─ deteksi_frame_tkinter.py
  ├─ img/               # Folder contoh gambar wajah
  ├─ celeba_ratios.csv  # (Opsional) file hasil analisis dataset
