@@ -3,6 +3,12 @@
 Project Python sederhana untuk mendeteksi **bentuk wajah** (Oval, Square, Round) dan merekomendasikan **frame kacamata** yang cocok.  
 Menggunakan **OpenCV**, **Mediapipe**, **Pillow**, dan antarmuka **GUI Tkinter**.
 
+Project ini merupakan tugas akhir mata kuliah Kecerdasan Buatan yang dikerjakan secara berkelompok
+: Anggota Kelompok
+- Timy Kakeru || 06.2023.1.07713
+- Tri Anishar R. || 06.2023.1.07732
+- Wahyu Fatkhur R. || 06.2023.1.07731
+- Mas Abdurrahaman Raafi || 06.2023.1.07701
 ---
 
 ## 🚀 Fitur
