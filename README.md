@@ -50,7 +50,7 @@ Rekomendasi-Frame-Kacamata/
 1️⃣ Clone repositori
 
 ```bash
-git clone https://github.com/username/Rekomendasi-Frame-Kacamata.git
+git clone https://github.com/TimyKakeru/Rekomendasi-Frame-Kacamata.git
 cd Rekomendasi-Frame-Kacamata
 ```
 2️⃣ (Opsional) Buat virtual environment
